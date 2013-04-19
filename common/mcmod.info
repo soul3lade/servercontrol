@@ -1,0 +1,20 @@
+[
+{
+  "modid": "ServerControl",
+  "name": "Server Control",
+  "description": "Server Mod to help Administrate Servers",
+  "version": "0.0.1",
+  "url": "www.github.com/soul3lade/servercontrol",
+  "updateUrl": "",
+  "authorList": [
+    "Soul3ade"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
